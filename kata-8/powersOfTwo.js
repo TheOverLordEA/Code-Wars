@@ -10,4 +10,4 @@ function findPowers(number) {
   return array;
 }
 
-console.log(findPowers(0));
+// console.log(findPowers(0));
