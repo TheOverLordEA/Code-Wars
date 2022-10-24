@@ -13,4 +13,4 @@ function capital(word) {
   }
   return a;
 }
-console.log(capital("CodEWaRs"));
+// console.log(capital("CodEWaRs"));
