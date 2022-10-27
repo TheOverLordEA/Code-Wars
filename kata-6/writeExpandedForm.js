@@ -22,4 +22,4 @@ function form(int) {
   );
 }
 
-console.log(form(70304));
+// console.log(form(70304));
