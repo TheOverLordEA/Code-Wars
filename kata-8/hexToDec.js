@@ -4,4 +4,4 @@ function hexToDec(string) {
   return parseInt(string, 16);
 }
 
-console.log(hexToDec("a"));
+// console.log(hexToDec("a"));
