@@ -1,7 +1,7 @@
 //Write a function that converts a hexdecimal to string
 
 function hexToDec(string) {
-  return Number(string);
+  return parseInt(string, 16);
 }
 
-console.log(hexToDec("1"));
+console.log(hexToDec("a"));
