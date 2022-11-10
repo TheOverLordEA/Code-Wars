@@ -5,5 +5,3 @@ function locateMiddleElement(array) {
 
   return array.indexOf(sortArray);
 }
-
-console.log(locateMiddleElement([2, 3, 1]));

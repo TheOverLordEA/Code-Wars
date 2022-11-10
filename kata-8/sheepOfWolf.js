@@ -17,6 +17,4 @@ function findWolf(arr) {
   }
 }
 
-console.log(
-  findWolf(["sheep", "wolf", "sheep", "sheep", "sheep", "sheep", "sheep"])
-);
+// console.log(findWolf(["sheep", "wolf", "sheep", "sheep", "sheep", "sheep", "sheep"]));
