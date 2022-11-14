@@ -4,4 +4,4 @@ function howOldYouAre(age) {
   return Number(age.split(" ")[0]);
 }
 
-console.log(howOldYouAre("10 old"));
+// console.log(howOldYouAre("10 old"));
