@@ -9,15 +9,9 @@ function countSmiles(e) {
   let countSmile = 0;
   console.log(":)" === ":(");
 
-  for (let i = 0; i < e.length; i++) {
-    if (e[i] === ":)" || e[i] === ":D" || e[i] === ";D" || e[i] === ":-D") {
-      countSmile++;
-    } else {
-      countSmile = countSmile;
-    }
-  }
+  for (let i = 0; i < e.length; i++) {}
 
   return countSmile;
 }
 
-console.log(countSmiles([":D", ":~)", ";~D", ":)"]));
+// console.log(countSmiles([":D", ":~)", ";~D", ":)"]));
