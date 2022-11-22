@@ -4,4 +4,4 @@ function oneTwo(str) {
   return str.map((el, i) => `${i + 1}: ${el}`);
 }
 
-console.log(oneTwo(["a", "b"]));
+// console.log(oneTwo(["a", "b"]));

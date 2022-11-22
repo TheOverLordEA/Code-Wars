@@ -12,4 +12,4 @@ function persistence(num) {
   return i;
 }
 
-console.log(persistence(39));
+// console.log(persistence(39));
