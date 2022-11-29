@@ -1,1 +1,0 @@
-//Write a function that calculates the number of people in the que
