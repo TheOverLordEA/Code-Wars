@@ -7,8 +7,8 @@ function isPangram(string) {
   });
 }
 
-console.log(
-  isPangram(
-    "A pangram is a sentence that contains every single letter of the alphabet at least once."
-  )
-);
+// console.log(
+//   isPangram(
+//     "A pangram is a sentence that contains every single letter of the alphabet at least once."
+//   )
+// );
