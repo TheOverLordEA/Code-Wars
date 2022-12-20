@@ -10,3 +10,5 @@ function accum(string) {
 
   return array.join("-");
 }
+
+console.log(100 % 200);
