@@ -23,4 +23,4 @@ function sumDigits(number) {
   }
 }
 
-console.log(sumDigits(-32));
+// console.log(sumDigits(-32));
